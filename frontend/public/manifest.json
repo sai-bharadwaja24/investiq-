@@ -1,0 +1,21 @@
+{
+  "short_name": "InvestIQ",
+  "name": "InvestIQ - Stock Decision Platform",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0A0D14",
+  "theme_color": "#00D09C",
+  "display": "standalone",
+  "orientation": "portrait"
+}
